@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/nanduthota/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/nanduthota/leetcode-problems/tree/master/0069-sqrtx) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nanduthota/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nanduthota/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nanduthota/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nanduthota/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nanduthota/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
