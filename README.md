@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nanduthota/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/nanduthota/leetcode-problems/tree/master/0027-remove-element) |
 | [0407-trapping-rain-water-ii](https://github.com/nanduthota/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nanduthota/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nanduthota/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/nanduthota/leetcode-problems/tree/master/0027-remove-element) |
 ## Breadth-First Search
 |  |
 | ------- |
