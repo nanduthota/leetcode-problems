@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/nanduthota/leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/nanduthota/leetcode-problems/tree/master/0036-valid-sudoku) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nanduthota/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nanduthota/leetcode-problems/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/nanduthota/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/nanduthota/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nanduthota/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
@@ -68,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nanduthota/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/nanduthota/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
