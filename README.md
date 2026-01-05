@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nanduthota/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/nanduthota/leetcode-problems/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nanduthota/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nanduthota/leetcode-problems/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nanduthota/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nanduthota/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/nanduthota/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nanduthota/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
